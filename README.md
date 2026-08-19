@@ -139,9 +139,8 @@ pytest
 ```
 
 ## Authors
-
-- Rafał Maciejewski
-- Robert Kłopotek
+- Rafał Maciejewski (www.github.com/SpecuAgentRM)
+- Robert Kłopotek (www.github.com/rakubaku)
 
 ## License
 
